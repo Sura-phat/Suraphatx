@@ -1,0 +1,15 @@
+C:\Users\surap\Desktop\MDT211\Suraphatx\bin\Debug\net6.0\Suraphatx.exe
+C:\Users\surap\Desktop\MDT211\Suraphatx\bin\Debug\net6.0\Suraphatx.deps.json
+C:\Users\surap\Desktop\MDT211\Suraphatx\bin\Debug\net6.0\Suraphatx.runtimeconfig.json
+C:\Users\surap\Desktop\MDT211\Suraphatx\bin\Debug\net6.0\Suraphatx.dll
+C:\Users\surap\Desktop\MDT211\Suraphatx\bin\Debug\net6.0\Suraphatx.pdb
+C:\Users\surap\Desktop\MDT211\Suraphatx\obj\Debug\net6.0\Suraphatx.csproj.AssemblyReference.cache
+C:\Users\surap\Desktop\MDT211\Suraphatx\obj\Debug\net6.0\Suraphatx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\surap\Desktop\MDT211\Suraphatx\obj\Debug\net6.0\Suraphatx.AssemblyInfoInputs.cache
+C:\Users\surap\Desktop\MDT211\Suraphatx\obj\Debug\net6.0\Suraphatx.AssemblyInfo.cs
+C:\Users\surap\Desktop\MDT211\Suraphatx\obj\Debug\net6.0\Suraphatx.csproj.CoreCompileInputs.cache
+C:\Users\surap\Desktop\MDT211\Suraphatx\obj\Debug\net6.0\Suraphatx.dll
+C:\Users\surap\Desktop\MDT211\Suraphatx\obj\Debug\net6.0\refint\Suraphatx.dll
+C:\Users\surap\Desktop\MDT211\Suraphatx\obj\Debug\net6.0\Suraphatx.pdb
+C:\Users\surap\Desktop\MDT211\Suraphatx\obj\Debug\net6.0\Suraphatx.genruntimeconfig.cache
+C:\Users\surap\Desktop\MDT211\Suraphatx\obj\Debug\net6.0\ref\Suraphatx.dll
